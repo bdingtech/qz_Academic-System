@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA+CAMAAABA6ohLAAAAclBMVEUAAABedP9Yff9ec/9ec/9fc/9fc/9edP9dc/9dc/9ddP9fc/9dd/9feP9fcv9ec/9fc/9fc/9fc/9ec/9ec/9dd/9fcP9fdP9dc/9ec/9ec/9fdP9ec/9edP9ccf9ec/9ec/9fc/9fc/9ecv9Vcf9ec/+eE+OwAAAAJXRSTlMA4wXK+6Tl0DyONzMTA0fqs0Au8KweGcK5noZ32k4k9JCMZlwSjX9sjwAAARdJREFUSMft18uqgzAUheEVTbS1NZro8dbLueb9X/EELO46arI7aKH9RxL4QARxiXcPqFBCuqCkUMWKllsX1bYE5W2kJlu46OjOVTxWCxbxWCxYxmO5YMfoja879n2zOmjCcdMB6fVBvlehuDGYMVmUKghXU4c19hYo2xB8ABZMFkjaIHweZ0yW9A1c1zIjTNbrOuRpEyZLOhhXeucDfNZfbI6hmEropX9mXFlrcwamHoHF0A6CiX8An6k4eAQSvQcOHGyAL5cCOw7O8qFyNWDiMNX/ASMTTwnw61j48wQkk2NhqYEudTz8DcBqrU8c3GGuZOBsc8nQ2fnDlz3/h+4FMH9K8Uccfz7eP1z5k5k/1u/5TXjd/gG0wVN+/hh6iQAAAABJRU5ErkJggg=="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./static/img/ico12.png
+// module id = DF4R
+// module chunks = 39

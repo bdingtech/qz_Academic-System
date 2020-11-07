@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAMAAABEH1h2AAAAk1BMVEUAAAD/gYH/gID/goL/f3//gID/gID/gYH/gID/gID/gID/gID/hob/hIT/gID/gID/goL/goL/gID/gYH/gID/gID/gID/gID/gID/gID/gID/gID/gYH/gYH/gID/gID/gID/gID/gYH/gYH/goL/gID/gYH/gID/gID/gID/gID/f3//gYH/fn7/f3//gYH/gIAh442DAAAAMHRSTlMA2JIq8beNX/r9Q6QHA9XFOAzdmomEeGv25bScMxsX77+BcloS0FBJyq5kLiYg61ZhQYC5AAACEElEQVRIx+2V2XqCMBCFXVDZBUpBdlHBpbXN+z9dM4mfxIiJoV56bgzJ/JLJnAyjt976l5zNYfykXKu4wydIQcmOo3cGUtGGw78qN1g9j0/68p9GwXAcZMeaIs5nEQzDbYf+nn/U8e8sQbpb+zA2lfFYv9TTgyeLiRsfraUuwRfXomtT2Mo1apnDcjkxRPhOQx0AEw2ispxLxFYX4Bt2Ad4X0uHa7rIT4ClvRxr8UxAreSTGfYwf2IU5nvgloxbW5jgfqEf05NsjPHG6RmxhVDPV5HH+n008UePfBhI/k0PN8Mh7jBfMVQvgsNcIraCCNknL8GAbPN77emMPdcZlOo2uFfjkrMTjcEBUOqE+ccWJew3iBAecpAs9vz8APMvJQ7ufAlImEFidoREuZTeu9DyugaUkm5bu5w6XadPFmYYqblObNzbNQob7uYm1b38XcRRmqQswlI9mIcF3WX+XPdEsJHjxoL8dYTHXZfi6F6Z3xQ+QBPf6Aoym9qndZHh0h7qT9mICE0nxOb9WMqeiji+6r5aLBuO2CeUchn+FpL0PxeGSvBBvso+LlgNw12FMpo5bTDi0sFgNnzHhGd6MLcEXsxulXueFYwp2FuFSvRAPOXyrhsccDnkWU5Fuci9u7ZnQ75RIVc7tntu7v0JChSzuWEyriGg+YtXcR+qYVJqmVYFFtmWPNZGqdTl661/6A7ZmNbmXmsPQAAAAAElFTkSuQmCC"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./static/img/ico6.png
+// module id = Qlfo
+// module chunks = 39

@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('Header',{attrs:{"title":"成绩录入审核","type":"0","route":"/teacher/examine/searchScore","casLogin":_vm.casLogin}}),_vm._v(" "),_c('div',{staticClass:"center"},[_c('div',{staticClass:"search-top"},_vm._l((_vm.search_list),function(item,index){return _c('div',{key:index,staticClass:"top-line"},[_vm._v(_vm._s(item.name))])}),0),_vm._v(" "),_c('div',{staticClass:"search-result"},[_vm._v("搜索结果")]),_vm._v(" "),_vm._l((_vm.list),function(item,index){return _c('div',{key:index,staticClass:"center-list"},[_c('div',{staticClass:"list-left"},[_c('div',{staticClass:"left-title"},[_vm._v(_vm._s(item.wfexname))]),_vm._v(" "),_c('div',{staticClass:"left-line"},[_c('span',[_vm._v("开课院系:")]),_vm._v(" "),_c('span',{staticStyle:{"margin-left":"5px"}},[_vm._v(_vm._s(item.kkdwmc))])]),_vm._v(" "),_c('div',{staticClass:"left-line"},[_c('span',[_vm._v("课堂名称:")]),_vm._v(" "),_c('span',{staticStyle:{"margin-left":"5px"}},[_vm._v(_vm._s(item.ktmc))])]),_vm._v(" "),_c('div',{staticClass:"left-line"},[_c('span',[_vm._v("录入人:")]),_vm._v(" "),_c('span',{staticStyle:{"margin-left":"5px"}},[_vm._v(_vm._s(item.userrealname))])]),_vm._v(" "),_c('div',{staticClass:"left-line"},[_c('span',[_vm._v("录入时间:")]),_vm._v(" "),_c('span',{staticStyle:{"margin-left":"5px"}},[_vm._v(_vm._s(item.cjsj))])])]),_vm._v(" "),_c('div',{staticClass:"list-right"},[_c('van-button',{staticClass:"right-button",attrs:{"type":"default"},on:{"click":function($event){return _vm.pushDetail(item.ywinstanceid,item.id)}}},[_vm._v("审核")])],1)])}),_vm._v(" "),(_vm.noData)?_c('van-empty',{staticClass:"custom-image",attrs:{"image":"static/img/no_data.png","description":"暂无数据"}}):_vm._e()],2)],1)}
+var staticRenderFns = []
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-0a27abc0","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/components/teacher/Examine/score-entry/list.vue
+// module id = null
+// module chunks = 
