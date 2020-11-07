@@ -1,24 +1,36 @@
-# jw
+## 强智移动端教务系统前端源码
 
-## Project setup
-```
-npm install
-```
+**注意：本源码由强智官方移动端教务系统公开前端代码，经手工整理、重新工程化而来，如有任何侵权以及法律纠纷，请及时联系删除**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 进度
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- 已完成
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [x] 初步工程化
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [x] 完成目录核对
+
+- [x] 完成配置
+
+- 待完成
+
+- [ ]  完成图片转换base64 -> png
+- [ ]  完成 less 文件配置
+
+
+### 技术栈
+
+- 框架
+
+  `Vue`  `vue-router` `vuex`
+
+- UI库
+
+   `element-ui` `vant` 
+
+- 工具库
+
+  `axios` `echarts` `moment` 
+
+
+
